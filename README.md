@@ -36,14 +36,3 @@ class Program
         Matrix.PrintMatrix(transpose);
     }
 }
-Installation
-Clone the repository to your local machine:
-
-sh
-Copy code
-git clone https://github.com/ekgzl/MatrixOpsTraining.git
-Open the project in your preferred C# development environment and run the provided example or create your own implementations using the provided methods.
-
-
-Contact
-For any questions or issues, please open an issue on this repository.
